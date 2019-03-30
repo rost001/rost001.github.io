@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://rost001.github.io/"/>
+  <updated>2019-03-30T13:11:26.702Z</updated>
+  <id>https://rost001.github.io/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My First Hexo Article</title>
+    <link href="https://rost001.github.io/2019/03/30/First/"/>
+    <id>https://rost001.github.io/2019/03/30/First/</id>
+    <published>2019-03-30T13:04:23.000Z</published>
+    <updated>2019-03-30T13:11:26.702Z</updated>
+    
+    <content type="html"><![CDATA[<p>于2019年3月三十号 搭建此bolg<br>分享 技术文章,生活日常,小技巧等东西给大家.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;于2019年3月三十号 搭建此bolg&lt;br&gt;分享 技术文章,生活日常,小技巧等东西给大家.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="Article" scheme="https://rost001.github.io/tags/Article/"/>
+    
+  </entry>
+  
+</feed>
