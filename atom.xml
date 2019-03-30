@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://rost001.github.io/"/>
-  <updated>2019-03-30T13:11:26.702Z</updated>
+  <updated>2019-03-30T14:57:24.579Z</updated>
   <id>https://rost001.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>走进Hexo</title>
+    <link href="https://rost001.github.io/2019/03/30/hexo/"/>
+    <id>https://rost001.github.io/2019/03/30/hexo/</id>
+    <published>2019-03-30T14:28:41.000Z</published>
+    <updated>2019-03-30T14:57:24.579Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hexo :一个快速、简洁的博客框架</p><p>首先安装Node.js和npm</p><p>第一步:安装Hexo依赖<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install hexo-cli -g</span><br></pre></td></tr></table></figure></p><p>第二步:新建Hexo项目，新建文章<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ hexo init &quot;Your Project Name&quot; //新建Hexo项目</span><br><span class="line">$ hexo new &quot;Your PageTitle&quot;     //新建Hexo文章</span><br></pre></td></tr></table></figure></p><p><font color="red"></font><br><br>第三步:发布Hexo项目<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ hexo g  //hexo generate的缩写,把hexo项目部署</span><br><span class="line">$ hexo s  //hexo server的缩写,即运行hexo项目</span><br></pre></td></tr></table></figure></p><p><font color="red">这里我们可以在本机的 location:4000 进行效果预览</font><br></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Hexo :一个快速、简洁的博客框架&lt;/p&gt;
+&lt;p&gt;首先安装Node.js和npm&lt;/p&gt;
+&lt;p&gt;第一步:安装Hexo依赖&lt;br&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://rost001.github.io/tags/hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>My First Hexo Article</title>
