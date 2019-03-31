@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://rost001.github.io/"/>
-  <updated>2019-03-30T14:57:24.579Z</updated>
+  <updated>2019-03-31T04:26:48.055Z</updated>
   <id>https://rost001.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>分享电影《隐秘而伟大》</title>
+    <link href="https://rost001.github.io/2019/03/31/move-wd/"/>
+    <id>https://rost001.github.io/2019/03/31/move-wd/</id>
+    <published>2019-03-31T04:19:31.000Z</published>
+    <updated>2019-03-31T04:26:48.055Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><hr><p><img src="/2019/03/31/move-wd/heard.png" alt="image"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="movies" scheme="https://rost001.github.io/tags/movies/"/>
+    
+  </entry>
   
   <entry>
     <title>走进Hexo</title>
