@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://rost001.github.io/"/>
-  <updated>2019-04-01T02:59:59.334Z</updated>
+  <updated>2019-04-03T10:46:39.043Z</updated>
   <id>https://rost001.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Rost影视网</title>
+    <link href="https://rost001.github.io/2019/04/03/Rost%E2%80%94-movie/"/>
+    <id>https://rost001.github.io/2019/04/03/Rost—-movie/</id>
+    <published>2019-04-03T10:40:08.000Z</published>
+    <updated>2019-04-03T10:46:39.043Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><hr><p><font color="red">推荐一个免费看电影的网站.</font><br><a href="http://www.love170901.top/" target="_blank" rel="noopener">点击这里跳转</a></p><hr><p>搜索功能实现<br><img src="/2019/04/03/Rost—-movie/foor_bar.png" alt="showimg1"></p><hr><p>首页<br><img src="/2019/04/03/Rost—-movie/foor_hread.png" alt="showimg2"></p><hr><p>影视详情<br><img src="/2019/04/03/Rost—-movie/foor_content.png" alt="showimg4"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="movies" scheme="https://rost001.github.io/tags/movies/"/>
+    
+  </entry>
   
   <entry>
     <title>Good Weed</title>
