@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://rost001.github.io/"/>
-  <updated>2019-05-05T01:25:56.570Z</updated>
+  <updated>2019-05-29T13:33:43.886Z</updated>
   <id>https://rost001.github.io/</id>
   
   <author>
@@ -15,6 +15,52 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>项目完结!</title>
+    <link href="https://rost001.github.io/2019/05/29/%E9%A1%B9%E7%9B%AE%E5%AE%8C%E7%BB%93/"/>
+    <id>https://rost001.github.io/2019/05/29/项目完结/</id>
+    <published>2019-05-29T13:14:54.000Z</published>
+    <updated>2019-05-29T13:33:43.886Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>历经一个月! 学校组织的项目于终于做完了！！！<br><br>虽然自己开发的全程,学习了很多知识!<br><br>自己动手后感觉能力提升了许多<br><br>下面展示一下项目的截图<br><br>本项目是模仿<a href="http://www.wenjuan.com" target="_blank" rel="noopener">问卷网</a>制作的一个问卷调查系统<br><br><br>大家可以观看下面的图片了解本项目.<br><br><a href="http://www.hackrost.top" target="_blank" rel="noopener">也可以点击我去查看</a><br><br><a href="http://www.hackrost.top:8020" target="_blank" rel="noopener">论坛可以点这里</a><br><br><br>后期会上传源码到Github</p><h3>首页</h3><br><img src="/2019/05/29/项目完结/20190529091829752.png" alt><br><img src="/2019/05/29/项目完结/20190529092520966.png" alt><br><h3>注册和登录</h3><br><img src="/2019/05/29/项目完结/20190529092054341.png" alt><br><img src="/2019/05/29/项目完结/20190529092113383.png" alt><br><h3>登陆后模板展示</h3><br><img src="/2019/05/29/项目完结/20190529092222346.png" alt><br><h3>添加和修改问卷</h3><br><img src="/2019/05/29/项目完结/20190529092255260.png" alt><br><h3>模板功能和展示</h3><br><img src="/2019/05/29/项目完结/20190529092334062.png" alt><br><img src="/2019/05/29/项目完结/20190529092402122.png" alt><br><br><h3>个人信息功能模板</h3><br><img src="/2019/05/29/项目完结/20190529092431181.png" alt><br><img src="/2019/05/29/项目完结/20190529092448953.png" alt><br><h3>后台功能没有做页面优化所以不贴图啦！</h3>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term=".NET" scheme="https://rost001.github.io/tags/NET/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记一次587端口</title>
+    <link href="https://rost001.github.io/2019/05/21/%E8%AE%B0%E4%B8%80%E6%AC%A1587%E7%AB%AF%E5%8F%A3/"/>
+    <id>https://rost001.github.io/2019/05/21/记一次587端口/</id>
+    <published>2019-05-21T14:49:41.000Z</published>
+    <updated>2019-05-21T15:10:36.928Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><b>分享一种阿里云因为25端口被封无法发送邮件的方法,废话不多说直接来图</b><br><br>第一步:添加防火墙端口<br><img src="/2019/05/21/记一次587端口/20190521105704671.png" alt><br>第二步:<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br></pre></td><td class="code"><pre><span class="line">public string SendMail(string fromMail,ring oMail)</span><br><span class="line">        &#123;</span><br><span class="line">            MailMessage mailMessage = new MailMessage</span><br><span class="line">            &#123;</span><br><span class="line">                //发件人</span><br><span class="line">                From = new MailAddress(fromMail);</span><br><span class="line">            &#125;;</span><br><span class="line">            </span><br><span class="line">            //收件人 可以添加多个收件人</span><br><span class="line">            mailMessage.To.Add(new MailAddress(toMail));</span><br><span class="line"></span><br><span class="line">            //mailMessage.CC 获取包含此电子邮件的抄送(CC)收件人的地址集合</span><br><span class="line">            //邮件主题</span><br><span class="line">            mailMessage.SubjectEncoding = Encoding.UTF8;</span><br><span class="line">            mailMessage.Subject = &quot;测试标题</span><br><span class="line"></span><br><span class="line">            //邮件正文</span><br><span class="line">            mailMessage.BodyEncoding = Encoding.UTF8;</span><br><span class="line">            Random r = new Random();</span><br><span class="line">            string nums = r.Next(1000, 10000).ToString();</span><br><span class="line">            mailMessage.Body = &quot;测试内容;</span><br><span class="line"></span><br><span class="line">            //如果要发送html格式的消息，需要设置这个属性</span><br><span class="line">            mailMessage.IsBodyHtml = true;</span><br><span class="line"></span><br><span class="line">            try</span><br><span class="line">            &#123;</span><br><span class="line">                //这里使用qq邮箱 需要在设置-&gt;账户下开启POP3/SMTP服务 和 IMAP / SMTP服务</span><br><span class="line">                //qq邮箱的发件服务器smtp.qq.com  端口25</span><br><span class="line">                SmtpClient sendClient = new SmtpClient(&quot;smtp.qq.com&quot;, 587);</span><br><span class="line">                &#123;</span><br><span class="line">                    //指定邮箱账号和密码</span><br><span class="line">                    //在第三方客户端登陆qq邮箱时，密码是授权码</span><br><span class="line">                    //登陆qq邮箱在设置-&gt;账户下可以生成授权码</span><br><span class="line">         Credentials = new NetworkCredential(fromMail, &quot;你的密钥&quot;);</span><br><span class="line">                &#125;;</span><br><span class="line"></span><br><span class="line">                //指定如何发送电子邮件</span><br><span class="line">                sendClient.DeliveryMethod = SmtpDeliveryMethod.Network;</span><br><span class="line"></span><br><span class="line">                //指定使用使用安全套接字ssl加密的链接</span><br><span class="line"></span><br><span class="line">                sendClient.EnableSsl = true;</span><br><span class="line">                sendClient.Send(mailMessage);</span><br><span class="line">                return nums;</span><br><span class="line">            &#125;</span><br><span class="line">            catch</span><br><span class="line">            &#123;</span><br><span class="line">                throw;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br></pre></td></tr></table></figure></p><p>第三步：开启服务器防火墙<br><img src="/2019/05/21/记一次587端口/20190521110653675.png" alt></p><p>完成啦！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="IIS" scheme="https://rost001.github.io/tags/IIS/"/>
+    
+  </entry>
   
   <entry>
     <title>ThoughtWorks.QRCode</title>
